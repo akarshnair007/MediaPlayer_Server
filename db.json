@@ -1,0 +1,176 @@
+{
+  "videos": [
+    {
+      "caption": "WuShang Clan​",
+      "imageUrl": "https://i.ytimg.com/vi/VIE-NMeYAoU/hqdefault.jpg?v=63d92b63",
+      "embedLink": "https://www.youtube.com/embed/VIE-NMeYAoU",
+      "id": 1
+    },
+    {
+      "caption": "BANDANA",
+      "imageUrl": "https://i.ytimg.com/vi/2HstO2h0PWk/sddefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/2HstO2h0PWk",
+      "id": 2
+    },
+    {
+      "caption": "Illuminati Song",
+      "imageUrl": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 3
+    },
+    {
+      "caption": "Anuv Jain - HUSN",
+      "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Illuminati Song",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "18/04/2024, 15:53:48",
+      "id": 1
+    },
+    {
+      "caption": "Kuthanthram ",
+      "url": "https://www.youtube.com/embed/W6-O00alJUo",
+      "timeStamp": "18/04/2024, 15:53:55",
+      "id": 2
+    },
+    {
+      "caption": "BANDANA",
+      "url": "https://www.youtube.com/embed/2HstO2h0PWk",
+      "timeStamp": "18/04/2024, 15:53:57",
+      "id": 3
+    },
+    {
+      "caption": "WuShang Clan​",
+      "url": "https://www.youtube.com/embed/VIE-NMeYAoU",
+      "timeStamp": "18/04/2024, 15:53:59",
+      "id": 4
+    },
+    {
+      "caption": "Illuminati Song",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "18/04/2024, 15:54:02",
+      "id": 5
+    },
+    {
+      "caption": "WuShang Clan​",
+      "url": "https://www.youtube.com/embed/VIE-NMeYAoU",
+      "timeStamp": "20/04/2024, 14:52:47",
+      "id": 6
+    },
+    {
+      "caption": "BANDANA",
+      "url": "https://www.youtube.com/embed/2HstO2h0PWk",
+      "timeStamp": "20/04/2024, 14:52:50",
+      "id": 7
+    },
+    {
+      "caption": "Illuminati Song",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "20/04/2024, 14:52:52",
+      "id": 8
+    },
+    {
+      "caption": "Anuv Jain - HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "21/04/2024, 00:50:56",
+      "id": 9
+    },
+    {
+      "caption": "BANDANA",
+      "url": "https://www.youtube.com/embed/2HstO2h0PWk",
+      "timeStamp": "21/04/2024, 00:58:36",
+      "id": 10
+    },
+    {
+      "caption": "Anuv Jain - HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "21/04/2024, 00:58:41",
+      "id": 11
+    },
+    {
+      "caption": "Anuv Jain - HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "21/04/2024, 00:58:41",
+      "id": 12
+    },
+    {
+      "caption": "Anuv Jain - HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "21/04/2024, 01:00:05",
+      "id": 13
+    },
+    {
+      "caption": "Anuv Jain - HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "21/04/2024, 01:00:05",
+      "id": 14
+    },
+    {
+      "caption": "Illuminati Song",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "21/04/2024, 01:00:10",
+      "id": 15
+    },
+    {
+      "caption": "WuShang Clan​",
+      "url": "https://www.youtube.com/embed/VIE-NMeYAoU",
+      "timeStamp": "21/04/2024, 01:02:57",
+      "id": 16
+    },
+    {
+      "caption": "WuShang Clan​",
+      "url": "https://www.youtube.com/embed/VIE-NMeYAoU",
+      "timeStamp": "21/04/2024, 01:02:57",
+      "id": 17
+    },
+    {
+      "caption": "WuShang Clan​",
+      "url": "https://www.youtube.com/embed/VIE-NMeYAoU",
+      "timeStamp": "21/04/2024, 01:05:01",
+      "id": 18
+    }
+  ],
+  "category": [
+    {
+      "category": "Malayalam Songs",
+      "allVideos": [
+        {
+          "caption": "BANDANA",
+          "imageUrl": "https://i.ytimg.com/vi/2HstO2h0PWk/sddefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/2HstO2h0PWk",
+          "id": 2
+        },
+        {
+          "caption": "Illuminati Song",
+          "imageUrl": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Hindi Songs",
+      "allVideos": [
+        {
+          "caption": "WuShang Clan​",
+          "imageUrl": "https://i.ytimg.com/vi/VIE-NMeYAoU/hqdefault.jpg?v=63d92b63",
+          "embedLink": "https://www.youtube.com/embed/VIE-NMeYAoU",
+          "id": 1
+        },
+        {
+          "caption": "Anuv Jain - HUSN",
+          "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/gJLVTKhTnog",
+          "id": 4
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
